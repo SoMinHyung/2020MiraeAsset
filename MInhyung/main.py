@@ -7,3 +7,4 @@ stocks = pd.read_csv("../mainstream/train/stocks.csv")
 print(trade_train)
 
 print("hello")
+print("test2")
